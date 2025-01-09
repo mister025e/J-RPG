@@ -1,0 +1,14 @@
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\bin\Debug\net8.0\J-RPG.exe
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\bin\Debug\net8.0\J-RPG.deps.json
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\bin\Debug\net8.0\J-RPG.runtimeconfig.json
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\bin\Debug\net8.0\J-RPG.dll
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\bin\Debug\net8.0\J-RPG.pdb
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.AssemblyInfoInputs.cache
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.AssemblyInfo.cs
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.csproj.CoreCompileInputs.cache
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.dll
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\refint\J-RPG.dll
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.pdb
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\J-RPG.genruntimeconfig.cache
+C:\Users\miste\OneDrive\Documents\Projets\Ynov\B2\CSharp\TP\TP_Final\J-RPG\obj\Debug\net8.0\ref\J-RPG.dll
